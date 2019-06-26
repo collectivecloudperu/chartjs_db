@@ -9,8 +9,7 @@
 
     <title>Como integrar Chart JS con una Base de Datos </title>
 
-	  <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
-
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
 
   </head>
 
@@ -50,26 +49,13 @@
     </nav>
     </header>
 
-    <!-- P -->
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- 5 -->
-	<ins class="adsbygoogle"
-	     style="display:block"
-	     data-ad-client="ca-pub-2390065838671224"
-	     data-ad-slot="2826072263"
-	     data-ad-format="auto"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-	<!-- End P -->
-
     <main role="main">
 
       <section class="jumbotron text-center">
         <div class="container">
           <h1 class="jumbotron-heading">Como integrar Chart JS con una Base de Datos</h1>
 
-          <div class="row">
+          <div class="row mt-4">
             <div class="col-md-12">
 
               <canvas id="miGrafico"></canvas> 
